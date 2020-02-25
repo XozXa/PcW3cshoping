@@ -1,0 +1,1 @@
+{"name":"Wecshoping","tagline":"code","body":"# 项目描述：\r\n本项目是一款PC端网页电商首页，采用的jQuery框架构建，其中涉及到DOM自定义：显示隐藏组件化，下拉菜单组件化，搜索功能组件化，中心focus区域组件化，楼层模块组件化。jQuery.ajax来进行数据请求，自定义变量来写入和读取数据以作为缓存保存在本地。利用Browsersync工具进行调试，使用阿里矢量图标库。","note":"Don't delete this file! It's used internally to help with page regeneration."}
