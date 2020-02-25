@@ -10,6 +10,9 @@
 	}
 
 	/*重置默认样式*/
+	/*body{
+		overflow: hidden;
+	}*/
 	body, button, input, select, textarea {
 		/*font: 12px/1 微软雅黑, Tahoma, Helvetica, Arial, 宋体, sans-serif;*/
 		color: #333;
